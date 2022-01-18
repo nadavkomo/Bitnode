@@ -1,0 +1,6 @@
+.input-list {
+    text-align: end;
+    & input[type="text" i] {
+        width: 150px;
+    }
+}
